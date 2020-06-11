@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\jonesgid000\documents\visual studio 2017\projects\tokenmachinec++\tokenmachinec++\source.cpp(132): error C3867: 'Tokens::getToken': non-standard syntax; use '&' to create a pointer to member
+c:\users\jonesgid000\documents\visual studio 2017\projects\tokenmachinec++\tokenmachinec++\source.cpp(132): error C3867: 'Tokens::getQuarters': non-standard syntax; use '&' to create a pointer to member
